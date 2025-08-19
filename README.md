@@ -19,52 +19,6 @@ They are based on our groups understanding and observation of cybersecurity prin
 Navigate to the prototypes/UI folder and run `npm install`, this should generate a modules folder.
 Run `node server.js` to start the node.js server that serves the files.
 
-## How it Works
-
-### INSERT STEP HERE
-
-Lorem 
-
-Lorem
-
-### General Assumptions
-
-These tools make some general assumptions about the work you're doing. Among the most important are:
-* Lorem.
-* Lorem.
-
-## Usage
-
-### Sub-Title
-
-Lorem
-
-### Sub-Title 2
-
-Lorem.
-
-# Example Workflow
-
-This workflow assumes a "first run" -- program was just installed and no other work has been done.
-
-### Step Title
-
-Lorem.
-
-### Step Title
-
-Lorem.
-
-### Step Title
-
-Lorem.
-
-### Step Title
-
-Lorem.
-
-Lorem.
-
 # Acknowledgements
 
 Bradley Evans, Software Engineer mentor 
