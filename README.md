@@ -8,10 +8,8 @@ Written in Python 3 and JavaScript.
 
 Project begun January 2025.
 
-<video width="600" controls>
-  <source src="https://files.catbox.moe/ndap32.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch Cyberflow Demo](https://files.catbox.moe/ndap32.mp4)
+
 
 ## Project Scope
 
